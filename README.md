@@ -7,8 +7,8 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=saralop4.saralop4)
+[![Github](https://img.shields.io/github/followers/saralop4?label=Follow&style=social)](https://github.com/saralop4)
 
 <div size='20px'> Hola! Mi nombre es Sarah Lopez. Gracias por tomarse el tiempo para ver mi perfil de GitHub :smile: 
 </div>
