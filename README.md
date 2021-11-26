@@ -48,7 +48,10 @@
   
 [![Sarah GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saralop4&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Sarah github stats](https://github-readme-stats.vercel.app/api?username=saralop4&show_icons=true&theme=tokyonight) | ![Sarah GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saralop4&theme=tokyonight) |
+| ![Sarah github stats]<a href="https://github.com/saralop4/saralop4/">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=saralop4&show_icons=true&line_height=27&count_private=true&locale=es&theme=tokyonight" alt="Sarah Lopez Github Stats" />
+</a>
+ | ![Sarah GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saralop4&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saralop4&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=saralop4&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
