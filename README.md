@@ -35,6 +35,7 @@
 <a href= https://github.com/saralop4?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/saralop4?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/saralop4?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+ <a href= https://github.com/saralop4?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 
 
 
@@ -45,12 +46,12 @@
 <br>
 <br>
   <br>
+
 [![Sarah GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saralop4&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Sarah github stats](https://github-readme-stats.vercel.app/api?username=saralop4&show_icons=true&theme=tokyonight) | ![Sarah GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saralop4&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saralop4&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=saralop4&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
 
 
 
