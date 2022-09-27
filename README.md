@@ -23,7 +23,7 @@
   
 - 👯 Busco colaborar en Proyectos
   
-- 💬 Pregúntame sobre Sql, Java, C#, JavaScript
+- 💬 Pregúntame sobre Sql, Java, C#, Python y Spring Boot
   
 - ⚡ Dato curioso: Me gustan los girasoles.
 
