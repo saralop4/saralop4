@@ -17,9 +17,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Actualmente soy estudiante 
+- 🔭 Actualmente soy estudiante de Ingeniería de Sistemas
   
-- 🌱 Actualmente estoy aprendiendo Git, Java y GitHub
+- 🌱 Actualmente estoy aprendiendo Git, Java, Python, Spring Boot y Uml
   
 - 👯 Busco colaborar en Proyectos
   
