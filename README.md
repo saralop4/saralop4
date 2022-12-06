@@ -19,7 +19,7 @@
 
 - 🔭 Actualmente soy estudiante de Ingeniería de Sistemas
   
-- 🌱 Actualmente estoy aprendiendo Git, Java, Python, Spring Boot y Uml
+- 🌱 Actualmente estoy aprendiendo Git, Java, Python, Spring Boot y PostgreSQL
   
 - 👯 Busco colaborar en Proyectos
   
