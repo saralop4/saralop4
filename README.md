@@ -19,12 +19,12 @@
 
 - 🔭 Actualmente soy estudiante de Ingeniería de Sistemas
   
-- 🌱 Actualmente estoy aprendiendo Git, Java, Python, Spring Boot y PostgreSQL
+- 🌱 Actualmente estoy aprendiendo Laravel, Spring Boot, Sql Server y  JavaScript.
+    
+- 👯 Busco colaborar en Proyect.
   
-- 👯 Busco colaborar en Proyectos
-  
-- 💬 Pregúntame sobre Sql, Java, C#, Python y Spring Boot
-  
+- 💬 Pregúntame sobre HTML5, CSS3, WordPress, Divi Builder, Elementor Pro, Java y Php.
+    
 - ⚡ Dato curioso: Me gustan los girasoles🌻
 
 <h2> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -45,14 +45,12 @@
   
 <br>
 <br>
-  <br>
+<br>
 
 [![Sarah GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saralop4&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Sarah github stats](https://github-readme-stats.vercel.app/api?username=saralop4&show_icons=true&line_height=27&count_private=true&locale=es&theme=tokyonight) | ![Sarah GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saralop4&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saralop4&hide=html,css&locale=es&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=saralop4&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-
 
 <br>
