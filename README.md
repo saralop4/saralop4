@@ -19,11 +19,11 @@
 
 - 🔭 Actualmente soy estudiante de Ingeniería de Sistemas
   
-- 🌱 Actualmente estoy aprendiendo Laravel, Spring Boot, Sql Server y  JavaScript.
+- 🌱 Actualmente estoy aprendiendo Spring Boot, Asp.Net Core y Sql Server.
     
 - 👯 Busco colaborar en Proyect.
   
-- 💬 Pregúntame sobre HTML5, CSS3, WordPress, Divi Builder, Elementor Pro, Java y Php.
+- 💬 Pregúntame sobre HTML5, CSS3, WordPress, Divi Builder, Java y C#.
     
 - ⚡ Dato curioso: Me gustan los girasoles🌻
 
