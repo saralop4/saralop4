@@ -34,8 +34,6 @@
 <a href= "https://git-scm.com/" > <img width ='32px' src ='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'> </a>
 <a href= https://github.com/saralop4?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/saralop4?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/saralop4?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-<a href="https://dotnet.microsoft.com/"> <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg'> </a>
 <a href="https://dotnet.microsoft.com/"> <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg'> </a>
 <a href="https://www.w3schools.com/cs/"> <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg'> </a>
 <a href="https://www.java.com"> <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg'> </a>
