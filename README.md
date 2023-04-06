@@ -47,7 +47,6 @@
 <br>
 <br>
 
-[![Sarah GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saralop4&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Sarah github stats](https://github-readme-stats.vercel.app/api?username=saralop4&show_icons=true&line_height=27&count_private=true&locale=es&theme=tokyonight) | ![Sarah GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saralop4&theme=tokyonight) |
 | --- | --- |
