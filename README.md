@@ -37,6 +37,7 @@
 <a href="https://dotnet.microsoft.com/"> <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg'> </a>
 <a href="https://www.w3schools.com/cs/"> <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg'> </a>
 <a href="https://www.java.com"> <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg'> </a>
+<a href="https://www.mysql.com/"> <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg'> </a>
 
 
 
