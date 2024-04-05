@@ -21,7 +21,7 @@
   
 - 🌱 Actualmente estoy aprendiendo Spring Boot, Asp.Net Core y Sql Server.
     
-- 👯 Busco colaborar en Proyect.
+- 👯 Busco colaborar en Proyects.
   
 - 💬 Pregúntame sobre HTML5, CSS3, WordPress, Divi Builder, Java y C#.
     
@@ -43,7 +43,7 @@
 
 
 <h2> Conectate Conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.twitter.com/saralopez4_'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = '#'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/saralop4'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
 <br>
