@@ -13,7 +13,7 @@
 <div size='20px'> Hola! Mi nombre es Sarah Lopez. Gracias por tomarse el tiempo para ver mi perfil de GitHub :smile: 
 </div>
 
-<h2> Sobre Mi <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> Sobre Mi <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/ai.gif" width="590px" height="60px"> </h2>
 
 <img width="250px" align="right" alt="Github" src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" />
 
