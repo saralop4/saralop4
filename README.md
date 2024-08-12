@@ -13,7 +13,7 @@
 <div size='20px'> Hola! Mi nombre es Sarah Lopez. Gracias por tomarse el tiempo para ver mi perfil de GitHub :smile: 
 </div>
 
-<h2> Sobre Mi <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/ai.gif" width="590px" height="60px"> </h2>
+<h2> Sobre Mi <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/> </h2>
 
 <img width="250px" align="right" alt="Github" src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" />
 
